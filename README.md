@@ -1,2 +1,2 @@
-# cronometro
- a bascic cron make with JS, CSS3 and HTML5
+# Stopwatch
+ A bascic cron make with JS, CSS3 and HTML5
